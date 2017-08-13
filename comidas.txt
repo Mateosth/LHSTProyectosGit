@@ -1,0 +1,19 @@
+[  ]  Ajiaco con pollo.
+[  ]  La arepa.
+[  ]  Caldo de Pollo.
+[  ]  Changua o caldo con huevo.
+[  ]  Tamales con molidos (envueltos).
+[  ]  Bagre en salsa o bagre frito.
+[  ]  Mondongo o Sopa de mondongo.
+[  ]  Bandeja paisa.
+[  ]  Carne a la llanera o mamona.
+[  ]  Cazuela de mariscos.
+[  ]  Pescado Pirarucú.
+[  ]  Sancocho de gallina.
+[  ]  Arroz con pollo.
+[  ]  Pollo asado.
+[  ]  Pescado a la brasa.
+[  ]  Pescado frito con arroz con coco y patacones.
+[  ]  Mariscos y frutos del mar.
+[  ]  Plátano maduro relleno.
+[  ]  Aguapanela con queso.   
