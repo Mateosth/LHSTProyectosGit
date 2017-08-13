@@ -10,10 +10,10 @@
 [X]  November Rain - Guns N' Roses
 [X]  Please Forgive Me - Bryan Adams
 [X]  Always - Bon Jovi
-[  ]  One - U2
-[  ]  Love Song - Telsa
-[  ]  Sweet Child O' Mine - Guns N' Roses
-[  ]  Bed Of Roses - Bon Jovi
-[  ]  Don't Know What You Got Til It's Gone - Cinderella
+[X]  One - U2
+[X]  Love Song - Telsa
+[X]  Sweet Child O' Mine - Guns N' Roses
+[X]  Bed Of Roses - Bon Jovi
+[X]  Don't Know What You Got Til It's Gone - Cinderella
 [  ]  Angel - Aerosmith
 [  ]  Wanted Dead Or Alive - Bon Jovi     

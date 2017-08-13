@@ -8,12 +8,12 @@
 [X]  Bandeja paisa.
 [X]  Carne a la llanera o mamona.
 [X]  Cazuela de mariscos.
-[  ]  Pescado Pirarucú.
-[  ]  Sancocho de gallina.
-[  ]  Arroz con pollo.
-[  ]  Pollo asado.
-[  ]  Pescado a la brasa.
-[  ]  Pescado frito con arroz con coco y patacones.
+[X]  Pescado Pirarucú.
+[X]  Sancocho de gallina.
+[X]  Arroz con pollo.
+[X]  Pollo asado.
+[X]  Pescado a la brasa.
+[X]  Pescado frito con arroz con coco y patacones.
 [  ]  Mariscos y frutos del mar.
 [  ]  Plátano maduro relleno.
 [  ]  Aguapanela con queso.      
