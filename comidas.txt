@@ -3,11 +3,11 @@
 [X]  Caldo de Pollo.
 [X]  Changua o caldo con huevo.
 [X]  Tamales con molidos (envueltos).
-[  ]  Bagre en salsa o bagre frito.
-[  ]  Mondongo o Sopa de mondongo.
-[  ]  Bandeja paisa.
-[  ]  Carne a la llanera o mamona.
-[  ]  Cazuela de mariscos.
+[X]  Bagre en salsa o bagre frito.
+[X]  Mondongo o Sopa de mondongo.
+[X]  Bandeja paisa.
+[X]  Carne a la llanera o mamona.
+[X]  Cazuela de mariscos.
 [  ]  Pescado Pirarucú.
 [  ]  Sancocho de gallina.
 [  ]  Arroz con pollo.

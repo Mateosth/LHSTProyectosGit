@@ -3,12 +3,12 @@
 [X]  Gladiator 2000.
 [X]  El Señor de los anillos: El retorno del rey 2003.
 [X]  El Padrino 1972.
-[  ]  El rey león 1994.
-[  ]  El caballero oscuro 2008.
-[  ]  Cadena perpetua 1994.
-[  ]  Piratas del Caribe: La maldición de la Perla Negra 2003.
-[  ]  Braveheart ( Corazón Valiente ) 1995.
-[  ]  La lista de Schindler 1993.
+[X]  El rey león 1994.
+[X]  El caballero oscuro 2008.
+[X]  Cadena perpetua 1994.
+[X]  Piratas del Caribe: La maldición de la Perla Negra 2003.
+[X]  Braveheart ( Corazón Valiente ) 1995.
+[X]  La lista de Schindler 1993.
 [  ]  Toy Story 1995.
 [  ]  El Señor de los anillos: La comunidad del anillo  2001.
 [  ]  Salvar al soldado Ryan 1998.

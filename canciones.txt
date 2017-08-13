@@ -3,13 +3,13 @@
 [X]  Wind of change - Scorpions
 [X]  Another day in the paradise - Phil Collins
 [X]  Total eclipse of the heart - Bonnie Tyler
-[  ]  Tears In Heaven - Eric Clapton
-[  ]  Angie - Rolling Stones
-[  ]  You're The Inspiration - Chicago
-[  ]  I Don't Wanna Miss A Thing - Aerosmith
-[  ]  November Rain - Guns N' Roses
-[  ]  Please Forgive Me - Bryan Adams
-[  ]  Always - Bon Jovi
+[X]  Tears In Heaven - Eric Clapton
+[X]  Angie - Rolling Stones
+[X]  You're The Inspiration - Chicago
+[X]  I Don't Wanna Miss A Thing - Aerosmith
+[X]  November Rain - Guns N' Roses
+[X]  Please Forgive Me - Bryan Adams
+[X]  Always - Bon Jovi
 [  ]  One - U2
 [  ]  Love Song - Telsa
 [  ]  Sweet Child O' Mine - Guns N' Roses
