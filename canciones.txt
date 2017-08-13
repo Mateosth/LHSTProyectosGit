@@ -1,8 +1,8 @@
-[  ]  Right here waiting for you - Richard Marx
-[  ]  Lady in red - Chris De Burgh
-[  ]  Wind of change - Scorpions
-[  ]  Another day in the paradise - Phil Collins
-[  ]  Total eclipse of the heart - Bonnie Tyler
+[X]  Right here waiting for you - Richard Marx
+[X]  Lady in red - Chris De Burgh
+[X]  Wind of change - Scorpions
+[X]  Another day in the paradise - Phil Collins
+[X]  Total eclipse of the heart - Bonnie Tyler
 [  ]  Tears In Heaven - Eric Clapton
 [  ]  Angie - Rolling Stones
 [  ]  You're The Inspiration - Chicago
@@ -16,4 +16,4 @@
 [  ]  Bed Of Roses - Bon Jovi
 [  ]  Don't Know What You Got Til It's Gone - Cinderella
 [  ]  Angel - Aerosmith
-[  ]  Wanted Dead Or Alive - Bon Jovi  
+[  ]  Wanted Dead Or Alive - Bon Jovi     
