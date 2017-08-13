@@ -1,8 +1,8 @@
-[  ]  Ajiaco con pollo.
-[  ]  La arepa.
-[  ]  Caldo de Pollo.
-[  ]  Changua o caldo con huevo.
-[  ]  Tamales con molidos (envueltos).
+[X]  Ajiaco con pollo.
+[X]  La arepa.
+[X]  Caldo de Pollo.
+[X]  Changua o caldo con huevo.
+[X]  Tamales con molidos (envueltos).
 [  ]  Bagre en salsa o bagre frito.
 [  ]  Mondongo o Sopa de mondongo.
 [  ]  Bandeja paisa.
@@ -16,4 +16,4 @@
 [  ]  Pescado frito con arroz con coco y patacones.
 [  ]  Mariscos y frutos del mar.
 [  ]  Plátano maduro relleno.
-[  ]  Aguapanela con queso.   
+[  ]  Aguapanela con queso.      
