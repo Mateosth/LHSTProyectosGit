@@ -16,4 +16,4 @@
 [X]  Nicaragua
 [X]  Canadá
 [  ]  Estados Unidos
-[  ]  Haití       
+[  ]  Haití        
