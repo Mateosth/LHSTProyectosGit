@@ -1,1 +1,19 @@
-   
+[X]  Colombia
+[X]  Venezuela
+[X]  Ecuador
+[X]  Brasil
+[X]  Perú
+[X]  Chile
+[X]  Argentina
+[X]  Uruguay
+[X]  Paraguay
+[X]  Bolivia
+[X]  Guyanas
+[X]  Panamá
+[X]  México
+[X]  Guatemala
+[X]  Honduras
+[X]  Nicaragua
+[X]  Canadá
+[  ]  Estados Unidos
+[  ]  Haití       

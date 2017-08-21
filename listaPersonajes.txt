@@ -1,1 +1,19 @@
-   
+[X]  Albert Einstein
+[X]  Leonardo Da Vinci
+[X]  Nikola Tesla
+[X]  Isaac Newton
+[X]  Stephen Hawking
+[X]  Wolfgang Amadeus Mozart
+[X]  Galileo Galilei
+[X]  Aristoteles
+[X]  Ludwig van Beethoven
+[X]  Charles Darwin
+[X]  Pitagoras
+[X]  Mahatma Ghandi
+[X]  Socrates
+[X]  Thomas Edison
+[X]  Platón
+[X]  Arquimedes
+[X]  Nicolas Copernico
+[  ]  Pasteur
+[  ]  Shakespeare       
